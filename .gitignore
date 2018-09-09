@@ -2,6 +2,7 @@ target
 Cargo.lock
 *.rs.bk
 .vscode
+.idea
 sample/
 /.project
 \#*\#
